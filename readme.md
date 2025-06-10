@@ -88,9 +88,6 @@ Access the app at: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📛 Repo Name Suggestion
-
-**qa-with-pdf-groq** or **groq-rag-pdf-app**
 
 ---
 
